@@ -6,13 +6,21 @@ Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](ht
 
 ## Cover art, Evocative Tone Setter(s)
 1.
+
 ## Overland World Map(s)
 1.
+
 ## Regional Map(s)
 1.
+
 ## City or Small Scene(s)
 1.
+
 ## Battle Map(s)
 1.
+
 ## Other Map Aide(s) 
-1.
+1. Buildings and Structures
+2. Style Example Sets
+3. Information, Legends or Annotations
+4. Complex Map Styles
