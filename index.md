@@ -8,9 +8,9 @@ Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](ht
 1. [Cover art, Evocative Tone Setter(s)](/Cover%20Art%20and%20Evocative%20Tone%20Setters.md)
 2. Overland World Map(s)
 3. Smaller Maps
-  * City or Small Scene(s)
-  * Battle Map(s)
-  * Buildings and Structures
+    * City or Small Scene(s)
+    * Battle Map(s)
+    * Buildings and Structures
 
 ## Other Map Aide(s) 
 1. [Style Example Sets](/StyleExamples.md)
