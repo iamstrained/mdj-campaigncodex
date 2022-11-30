@@ -4,23 +4,16 @@ The guide that follows are some captured and reshared recommendations to creator
 
 Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](https://discord.com/channels/662267976984297473/1041406703784181881).
 
-## Cover art, Evocative Tone Setter(s)
-1.
-
-## Overland World Map(s)
-1.
-
-## Regional Map(s)
-1.
-
-## City or Small Scene(s)
-1.
-
-## Battle Map(s)
-1.
+## Map Makers Codex Sections
+1. [Cover art, Evocative Tone Setter(s)](
+2. Overland World Map(s)
+3. Regional Map(s)
+4. Smaller Maps
+  5. City or Small Scene(s)
+  6. Battle Map(s)
+  7. Buildings and Structures
 
 ## Other Map Aide(s) 
-1. Buildings and Structures
-2. Style Example Sets
-3. Information, Legends or Annotations
-4. Complex Map Styles
+1. Style Example Sets
+2. Information, Legends or Annotations
+3. Complex Map Styles
