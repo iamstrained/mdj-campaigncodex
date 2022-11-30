@@ -4,7 +4,7 @@ Every good tale needs a lead in and this is where it all starts. From banners to
 
 ## One Great Tale
 
-<img src="https://cdn.midjourney.com/db707701-4449-4009-945e-19776b7c40c7/grid_0.png" width=60%>
+<img src="https://cdn.midjourney.com/db707701-4449-4009-945e-19776b7c40c7/grid_0.png" width="60%">
 
 Generally for a lead in piece you can if you want blend together other map elements with character or symbology. Midjourney can through a few iterations help you arrive at a set of **evocative** (keep that in mind for later) images that will help sell or tell your tale.
 
@@ -31,4 +31,4 @@ An example of doing so shows that Midjourney is not able at this time (V4) to re
 
 > imagine prompt: [ url1 ] [ url2] add banner icons
 
-<img src="https://cdn.midjourney.com/49c0ee0b-126d-4dfb-80ea-5992c86fab24/grid_0.png" width=40%>
+<img src="https://cdn.midjourney.com/49c0ee0b-126d-4dfb-80ea-5992c86fab24/grid_0.png" width="40%">
