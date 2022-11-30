@@ -24,3 +24,8 @@ You could feed your prompt an [ IMG1 ] URL reference such as this banner,
 
 as well as other seed elements, like this dragon (which was used in **The Great Tale** image above). This image was what allowed the top-of-the-waves (low detail but enough to capture a viewers interest) in the output image.
 <img src="https://cdn.midjourney.com/0544f223-7926-4428-8330-7129e501f0ca/grid_0.png" width="610">
+
+An example of doing so shows that Midjourney is not able at this time (V4) to retain stability to your original source image, but will leverage it for derivative (hybridized) results. In this example, the two images were added as reference and a simple prompt to add banner information was used as a way to create options for different "front page" views or variants.
+
+> imagine prompt: [ url1 ] [ url2] add banner icons
+
