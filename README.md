@@ -5,7 +5,7 @@ The guide that follows are some captured and reshared recommendations to creator
 Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](https://discord.com/channels/662267976984297473/1041406703784181881).
 
 ## Map Makers Codex Sections
-1. [Cover art, Evocative Tone Setter(s)](
+1. [Cover art, Evocative Tone Setter(s)](https://github.com/iamstrained/mdj-campaigncodex/blob/main/Cover%20Art%20and%20Evocative%20Tone%20Setters.md)
 2. Overland World Map(s)
 3. Regional Map(s)
 4. Smaller Maps
