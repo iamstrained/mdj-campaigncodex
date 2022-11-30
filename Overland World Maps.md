@@ -2,8 +2,9 @@
 
 Your creations are vast and need to be conveyed in their proper scope. At the top of this is the overland or wide-shot style maps. These can be world, country, region, province or even smaller scale like cities or other geographic features. _"Scale"_ varies for any story told, but they're all vastly important.
 
+<img src="https://cdn.discordapp.com/attachments/1041576661029765180/1047598775025291394/TheDagNabit_overland_map_of_kingdom_in_soft_glowing_embers_war__c5058b3f-3fcd-4aee-8354-fe019b427669.png" width="50%">
 
-<img src="https://cdn.midjourney.com/485bf601-3e17-4cf2-9079-8cfa25513e36/grid_0.png" width="50%">
+
 
 ## Tone and Thematics
 
@@ -14,5 +15,5 @@ As shown below, **what is left to the imagination?**
 * Is it industrial, or decaying?
 * What in the world is that purple mountain about?
 * on and on the questions go...
-
-https://cdn.discordapp.com/attachments/1041576661029765180/1047598775025291394/TheDagNabit_overland_map_of_kingdom_in_soft_glowing_embers_war__c5058b3f-3fcd-4aee-8354-fe019b427669.png
+* 
+<img src="https://cdn.midjourney.com/485bf601-3e17-4cf2-9079-8cfa25513e36/grid_0.png" width="50%">
