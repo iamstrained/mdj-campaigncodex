@@ -15,5 +15,5 @@ As shown below, **what is left to the imagination?**
 * Is it industrial, or decaying?
 * What in the world is that purple mountain about?
 * on and on the questions go...
-* 
+
 <img src="https://cdn.midjourney.com/485bf601-3e17-4cf2-9079-8cfa25513e36/grid_0.png" width="50%">
