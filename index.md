@@ -6,8 +6,8 @@ Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](ht
 
 ## Map Makers Codex Sections
 1. [Cover art, Evocative Tone Setter(s)](/Cover%20Art%20and%20Evocative%20Tone%20Setters.md)
-2. Overland World Map(s)
-3. Smaller Maps
+2. [World and Regional Map(s)](/WorldMaps.md)
+3. [Smaller Maps](/SmallerMaps.md)
     * City or Small Scene(s)
     * Battle Map(s)
     * Buildings and Structures
