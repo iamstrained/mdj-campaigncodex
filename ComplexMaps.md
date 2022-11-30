@@ -19,7 +19,7 @@ A single map is great, but complicated maps or scenes within scenes can be bette
 ### Sample Prompt and Explanation
 Below we run through a prompt example and the images that get us there.
 
-**[ img1 ] ** 
+**[ img1 ]** 
 
 <img src="https://s.mj.run/ioTutgOIf04" width=25%>
 
