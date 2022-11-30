@@ -16,3 +16,4 @@ Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](ht
 1. [Style Example Sets](/StyleExamples.md)
 2. [Information, Legends or Annotations](/Annotations.md)
 3. [Complex Map Styles](/ComplexMaps.md)
+4. [Map Making Resources](/MapResources.md)
