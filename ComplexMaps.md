@@ -27,7 +27,6 @@ Image one is an example of the shapes that the system uses to provide some shape
 
 **[ img2 ]**
 
-
 <img src="https://s.mj.run/ZfkhT5AVydM" width=25%>
 
 Image two is our reference image (low quality) that does lead to some residual blurriness in our final output. But this is merely used for example style reference to help midjourney get to some map elements we may desire.
@@ -35,6 +34,7 @@ Image two is our reference image (low quality) that does lead to some residual b
 > imagine prompt: https://s.mj.run/ZfkhT5AVydM https://s.mj.run/ioTutgOIf04 overland map of provinces with bright edge borders, science fiction corporate lands, inked, --chaos 44 --v 4
 
 **Prompt Output**
+
 As seen, we get a pretty nice result where midjourney uses or consumes the _shape and color_ data from [ img1 ] to arrive at a style that is much more interesting, and potentially useful for our storytelling needs.
 
 <img src="https://cdn.discordapp.com/attachments/1041576661029765180/1047552949531984014/TheDagNabit_overland_map_of_provinces_with_bright_edge_borders__e3fcc637-516c-4bcc-b4fd-88b1d68fa819.png" width=50%>
