@@ -3,7 +3,7 @@
 Every good tale needs a lead in and this is where it all starts. From banners to smaller pieces of lore that get woven into a narrative for whatever your doing, Midjourney is able to help you set tone and style early for anyone you are sharing your stories with.
 
 ## One Great Tale
-<img src="https://cdn.midjourney.com/db707701-4449-4009-945e-19776b7c40c7/grid_0.png" width=40%>
+<img src="https://cdn.midjourney.com/db707701-4449-4009-945e-19776b7c40c7/grid_0.png" width=60%>
 
 Generally for a lead in piece you can if you want blend together other map elements with character or symbology. Midjourney can through a few iterations help you arrive at a set of **evocative** (keep that in mind for later) images that will help sell or tell your tale.
 
@@ -20,7 +20,7 @@ This **Text Prompt** includes a few portions which try to encourage specific _st
 
 You could feed your prompt an [ IMG1 ] URL reference such as this banner,
 
-<img src="https://user-images.githubusercontent.com/4333299/204849680-40460835-9ffb-4cef-83c3-f3e5ba61b58c.png" width="420">
+<img src="https://user-images.githubusercontent.com/4333299/204849680-40460835-9ffb-4cef-83c3-f3e5ba61b58c.png" width="15%">
 
 as well as other seed elements, like this dragon (which was used in **The Great Tale** image above). This image was what allowed the top-of-the-waves (low detail but enough to capture a viewers interest) in the output image.
 <img src="https://cdn.midjourney.com/0544f223-7926-4428-8330-7129e501f0ca/grid_0.png" width="40%">
