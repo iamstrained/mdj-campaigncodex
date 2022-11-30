@@ -26,7 +26,7 @@ as well as other seed elements, like this dragon (which was used in **The Great 
 
 <img src="https://cdn.midjourney.com/0544f223-7926-4428-8330-7129e501f0ca/grid_0.png" width="40%">
 
-An example of doing so shows that Midjourney is not able at this time (V4) to retain stability to your original source image, but will leverage it for derivative (hybridized) results. In this example, the two images were added as reference and a simple prompt to add banner information was used as a way to create options for different "front page" views or variants.
+An example of doing so shows that Midjourney is not able at this time (V4) to retain stability to your original source image, but will leverage it for derivative (hybridized) results. In this example, the two images were added as reference and a simple prompt to add banner information was used as a way to create options for different "front page" views or variants. From here you can iterate and identify style schoices that maybe suit telling "chapter" or sub-sections of your story or narrative.
 
 > imagine prompt: [ url1 ] [ url2] add banner icons
 
