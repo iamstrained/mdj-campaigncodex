@@ -30,4 +30,4 @@ An example of doing so shows that Midjourney is not able at this time (V4) to re
 
 > imagine prompt: [ url1 ] [ url2] add banner icons
 
-<img scr="https://cdn.midjourney.com/49c0ee0b-126d-4dfb-80ea-5992c86fab24/grid_0.png" width=40%>
+<img src="https://cdn.midjourney.com/49c0ee0b-126d-4dfb-80ea-5992c86fab24/grid_0.png" width=40%>
