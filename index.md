@@ -14,6 +14,6 @@ Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](ht
   7. Buildings and Structures
 
 ## Other Map Aide(s) 
-1. Style Example Sets
+1. [Style Example Sets](/StyleExamples.md)
 2. Information, Legends or Annotations
 3. Complex Map Styles
