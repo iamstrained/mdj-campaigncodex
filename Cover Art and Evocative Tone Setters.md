@@ -8,4 +8,4 @@ Every good tale needs a lead in and this is where it all starts. From banners to
 Generally for a lead in piece you can if you want blend together other map elements with character or symbology. Midjourney can through a few iterations help you arrive at a set of **evocative** (keep that in mind for later) images that will help sell or tell your tale.
 
 
-    province map of dragon nation borders and kingdoms and creatures, 2D, full render, Zbrush, greens and yellow-grey, 1980 x 1080, style of Felicity Harris, photorealistic drawing, sharp focus
+> province map of dragon nation borders and kingdoms and creatures, 2D, full render, Zbrush, greens and yellow-grey, 1980 x 1080, style of Felicity Harris, photorealistic drawing, sharp focus
