@@ -5,7 +5,7 @@ The guide that follows are some captured and reshared recommendations to creator
 Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](https://discord.com/channels/662267976984297473/1041406703784181881).
 
 ## Map Makers Codex Sections
-1. [Cover art, Evocative Tone Setter(s)](/Cover Art and Evocative Tone Setters.md)
+1. [Cover art, Evocative Tone Setter(s)](/CoverArtandEvocativeToneSetters.md)
 2. [World and Regional Map(s)](/WorldMaps.md)
 3. [Smaller Maps](/SmallerMaps.md)
     * City or Small Scene(s)
