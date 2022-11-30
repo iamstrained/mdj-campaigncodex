@@ -15,4 +15,4 @@ Find us on the Discord Midjourney server, [Image-Jams > Cartographer's Guild](ht
 ## Other Map Aide(s) 
 1. [Style Example Sets](/StyleExamples.md)
 2. [Information, Legends or Annotations](/Annotations.md)
-3. Complex Map Styles
+3. [Complex Map Styles](/ComplexMaps.md)
