@@ -23,3 +23,4 @@ You could feed your prompt an [ IMG1 ] URL reference such as this banner,
 <img src="http://res.publicdomainfiles.com/pdf_view/83/13939356022222.png" width="420">
 
 as well as other seed elements, like this dragon (which was used in The Great Tale image above).
+<img src="https://cdn.midjourney.com/0544f223-7926-4428-8330-7129e501f0ca/grid_0.png" width="610">
