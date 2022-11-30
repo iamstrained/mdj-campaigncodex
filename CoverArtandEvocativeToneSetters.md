@@ -20,7 +20,7 @@ This **Text Prompt** includes a few portions which try to encourage specific _st
 
 You could feed your prompt an [ IMG1 ] URL reference such as this banner,
 
-<img src="http://res.publicdomainfiles.com/pdf_view/83/13939356022222.png" width="420">
+<img src="https://user-images.githubusercontent.com/4333299/204849680-40460835-9ffb-4cef-83c3-f3e5ba61b58c.png" width="420">
 
 as well as other seed elements, like this dragon (which was used in **The Great Tale** image above). This image was what allowed the top-of-the-waves (low detail but enough to capture a viewers interest) in the output image.
 <img src="https://cdn.midjourney.com/0544f223-7926-4428-8330-7129e501f0ca/grid_0.png" width="610">
