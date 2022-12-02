@@ -6,8 +6,8 @@ Prompting information on a map can still lend itself to some AI driven creative 
 
 ## Recommended Prompt Words to Explore
 
-**Prompt with no mark-up language (basic example)
-**
+**Prompt with no mark-up language (basic example)**
+
 > underground cut-away map of a dwarven kingdom, style of a geode, --style 4b --v 4 
 
 <img src="https://cdn.midjourney.com/cf3afdd6-c1cc-46fa-9227-a3aada13b1fe/grid_0.png" width="60%">
