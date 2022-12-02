@@ -23,7 +23,7 @@ This is the base example with no other references, each subsequent example varie
 **labelled**
 > underground cut-away map of a dwarven kingdom, **labelled**, style of a geode, --style 4b --v 4
 
-<img src="https://cdn.midjourney.com/66ec40e7-0531-4006-96a2-fa489790773f/grid_0.png" width="75%">
+<img src="https://cdn.midjourney.com/dc92afcb-76b0-462f-8ea7-ac6e3fde004a/grid_0.png" width="75%">
 
 **annotated**
 
