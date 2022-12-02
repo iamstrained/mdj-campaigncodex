@@ -13,7 +13,10 @@ This is the base example with no other references, each subsequent example varie
 
 <img src="https://cdn.midjourney.com/cf3afdd6-c1cc-46fa-9227-a3aada13b1fe/grid_0.png" width="75%">
 
-**map legend**
+**arrows and line annotations**
+> underground cut-away map of a dwarven kingdom :: **arrows and lines annotation trade routes**, style of a geode, --style 4b --v 4
+
+<img src="https://cdn.midjourney.com/2bf8a35c-0736-4256-b33f-cebe391c0166/grid_0.png" width="75%">
 
 **icons**
 > underground cut-away map of a dwarven kingdom, style of a geode, **with icons**, --style 4b --v 4
