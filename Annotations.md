@@ -7,19 +7,20 @@ Prompting information on a map can still lend itself to some AI driven creative 
 ## Recommended Prompt Words to Explore
 
 **Prompt with no mark-up language (basic example)**
+This is the base example with no other references, each subsequent example varies on the option sets that are relevant for normal stylistic responses.
 
-> underground cut-away map of a dwarven kingdom, style of a geode, --style 4b --v 4 
+> underground cut-away **map** of a dwarven kingdom, style of a geode, --style 4b --v 4 
 
 <img src="https://cdn.midjourney.com/cf3afdd6-c1cc-46fa-9227-a3aada13b1fe/grid_0.png" width="75%">
 
-**legend**
+**map legend**
 
 **icons**
-> underground cut-away map of a dwarven kingdom, style of a geode, with icons, --style 4b --v 4
+> underground cut-away map of a dwarven kingdom, style of a geode, **with icons**, --style 4b --v 4
 
 <img src="https://cdn.midjourney.com/66ec40e7-0531-4006-96a2-fa489790773f/grid_0.png" width="75%">
 
-**labeled**
+**labelled**
 
 **annotated**
 
