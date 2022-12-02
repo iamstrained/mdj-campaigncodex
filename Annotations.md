@@ -15,7 +15,14 @@ Prompting information on a map can still lend itself to some AI driven creative 
 **legend**
 
 **icons**
+> underground cut-away map of a dwarven kingdom, style of a geode, with icons, --style 4b --v 4
+
+<img src="https://cdn.midjourney.com/66ec40e7-0531-4006-96a2-fa489790773f/grid_0.png" width="75%">
 
 **labeled**
 
 **annotated**
+
+> underground cut-away map of a dwarven kingdom, **annotated with legend**, style of a geode, --style 4b --v 4 
+
+<img src="https://cdn.midjourney.com/4a14a3cd-499d-4a15-82e7-b08b7067141e/grid_0.png" width="75%">
