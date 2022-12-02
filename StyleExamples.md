@@ -1,5 +1,15 @@
 # Gallery of Samples for Style Reference and Aides in Composition
 
+## V4 Standard vs V4B
+V4 has slightly less crisp details than the V4b variant. Use of both may lend themselves to different stylistic results with the same commands or prompt URL entries as seeds.
+
+**v4**
+Notice the naturally slightly less sharp edges from V4a.
+<img src="https://user-images.githubusercontent.com/4333299/205198450-75c96a65-4088-4213-a984-c27f8ce0e508.png" width="25%">
+
+**V4b**
+Sharper and finer details.
+<img src="https://user-images.githubusercontent.com/4333299/205198439-cdc21734-5ae0-46a4-bdee-977136bac807.png" width="25%">
 
 ## Gems Paper Style Map
 
