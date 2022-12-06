@@ -39,3 +39,15 @@ As seen, we get a pretty nice result where midjourney uses or consumes the _shap
 
 <img src="https://cdn.discordapp.com/attachments/1041576661029765180/1047552949531984014/TheDagNabit_overland_map_of_provinces_with_bright_edge_borders__e3fcc637-516c-4bcc-b4fd-88b1d68fa819.png" width="50%">
 
+
+## Double Exposure
+
+Similar to double exposure styles of film overlays, MJ can create maps which overlay two image concepts into a hybrid in unique ways. In this you are able to use the prompt of double exposure to connect two ideas in unique or inventive ways.
+
+> imagine prompt: double exposure a geographic map of dark fantasy empire and armies with the demon queen in profile, 8k, intricate surface detail, artstation,
+
+** Prompt Output**
+In this example we chose to prioritize the "map of" in front of the demon queen. The text interpretor appears to select the first item near the double exposure in this example. Inverting the "map of" after the Demon Queen will change the style of the image based upon the linear nature, which will make the dominant trait the first interpreted item. Using the double exposure prompt after a "::" hard break does not appear to work well, until after a few generations after your first attempt.
+
+<img src="https://cdn.midjourney.com/35712a4c-2a34-4216-9d7d-1c09d63f6031/grid_0.png", 
+
