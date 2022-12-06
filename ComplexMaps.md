@@ -49,5 +49,5 @@ Similar to double exposure styles of film overlays, MJ can create maps which ove
 ** Prompt Output**
 In this example we chose to prioritize the "map of" in front of the demon queen. The text interpretor appears to select the first item near the double exposure in this example. Inverting the "map of" after the Demon Queen will change the style of the image based upon the linear nature, which will make the dominant trait the first interpreted item. Using the double exposure prompt after a "::" hard break does not appear to work well, until after a few generations after your first attempt.
 
-<img src="https://cdn.midjourney.com/35712a4c-2a34-4216-9d7d-1c09d63f6031/grid_0.png", 
+<img src="https://cdn.midjourney.com/35712a4c-2a34-4216-9d7d-1c09d63f6031/grid_0.png", width="50%">
 
