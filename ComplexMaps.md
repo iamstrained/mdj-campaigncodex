@@ -51,3 +51,11 @@ In this example we chose to prioritize the "map of" in front of the demon queen.
 
 <img src="https://cdn.midjourney.com/35712a4c-2a34-4216-9d7d-1c09d63f6031/grid_0.png" width="50%">
 
+
+## Diorama or Model-like Mapping
+
+MJ is very good at supporting diorama like or carved scenes for maps. These can be etched in things like metal, leather, or other materials and generally perform well. In this example, Raised element allows for feeding a tier or height as a priority to the mapping, while the seperation of leather and metal in by the "::" provide reference to help support that these are likely composition elements or materials.
+
+> **raised** hemisphere, topographic details, map lines overlay, cartographer reference :: **leather and metal**. Forested cities, **multi-tiered** --ar 3:2 --s 1000 --q 2  --v 4
+
+<img src="https://cdn.midjourney.com/2c05fe69-3118-48bc-93bf-aa555f7ba406/grid_0.png" width="50%">
